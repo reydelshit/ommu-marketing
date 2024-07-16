@@ -1,5 +1,3 @@
-import OMMU from '@/assets/ommu.png';
-
 const Main = () => {
   return (
     <div className="container flex h-[800px] w-[80%] border-2 border-green-600">
