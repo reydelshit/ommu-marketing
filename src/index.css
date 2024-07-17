@@ -22,6 +22,14 @@
   .clipPlatform {
     clip-path: polygon(0 22%, 6% 11%, 100% 0, 100% 100%, 0 100%);
   }
+
+  .clipHelp {
+    clip-path: polygon(0 0, 100% 90px, 100% 100%, 0 100%);
+  }
+
+  .clipFooter {
+    clip-path: polygon(0 150px, 120px 0, 100% 70px, 100% 100%, 0 100%);
+  }
 }
 @layer base {
   :root {

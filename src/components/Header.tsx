@@ -2,7 +2,7 @@ import Logo from '@/assets/images/ommu.png';
 const Header = () => {
   return (
     <div className="flex w-full items-center justify-center p-4">
-      <div className="mx-auto flex w-[80%] max-w-[1100px] items-center justify-between p-4">
+      <div className="mx-auto flex w-full max-w-[1255px] items-center justify-between p-4">
         <div className="flex items-center gap-10">
           <img className="w-20" src={Logo} alt="logo" />
 
