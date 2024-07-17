@@ -8,7 +8,7 @@ const Marque = () => {
   return (
     <Marquee
       autoFill
-      className="my-4 flex h-[8rem] w-full gap-4 bg-white p-4 shadow-xl"
+      className="my-4 flex h-[15rem] gap-4 rounded-xl bg-white p-8 shadow-2xl"
     >
       {/* {[...Array(10)].map((_, i) => (
         <div key={i} className="ml-8 text-2xl font-semibold text-[#74512D]">
@@ -16,7 +16,7 @@ const Marque = () => {
         </div>
       ))} */}
 
-      <div className="flex w-full items-center gap-[4rem]">
+      <div className="flex items-center gap-[4rem]">
         <img className="block h-full w-[8rem]" src={SPONSOR1} alt="" />
         <img className="block h-full w-[8rem]" src={SPONSOR2} alt="" />
         <img className="block h-full w-[8rem]" src={SPONSOR3} alt="" />

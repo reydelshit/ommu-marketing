@@ -17,6 +17,12 @@
   src: url('./assets/fonts/Recoleta-Bold.ttf') format('truetype');
   /* font-weight: 900; */
 }
+
+@layer components {
+  .clipPlatform {
+    clip-path: polygon(0 22%, 6% 11%, 100% 0, 100% 100%, 0 100%);
+  }
+}
 @layer base {
   :root {
     --background: 0 0% 100%;

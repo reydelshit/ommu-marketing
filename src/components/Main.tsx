@@ -1,10 +1,10 @@
 const Main = () => {
   return (
-    <div className="container flex h-[800px] w-[80%] border-2 border-green-600">
+    <div className="container flex h-[800px] w-[80%] items-center border-green-600">
       <div>
-        <h1 className="font-zeyada mt-8 text-5xl font-bold uppercase">
+        <h1 className="mt-8 font-zeyada text-5xl font-bold uppercase">
           Small actions,{' '}
-          <span className="font-recoleta block text-7xl font-extrabold tracking-wide">
+          <span className="block font-recoleta text-7xl font-extrabold tracking-wide">
             BIG IMPACT.
           </span>
         </h1>
