@@ -1,8 +1,8 @@
-import Marquee from 'react-fast-marquee';
 import SPONSOR1 from '@/assets/images/sponsors/binghamton-university.svg';
 import SPONSOR2 from '@/assets/images/sponsors/boston-college.svg';
 import SPONSOR3 from '@/assets/images/sponsors/george-washington-university.svg';
 import SPONSOR4 from '@/assets/images/sponsors/new-york-university.svg';
+import Marquee from 'react-fast-marquee';
 
 const Marque = () => {
   return (
