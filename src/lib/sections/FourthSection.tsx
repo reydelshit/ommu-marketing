@@ -3,7 +3,7 @@ import Picture from '@/assets/images/sponsors/binghamton-university.svg';
 const FourthSection = () => {
   return (
     <div className="w-full bg-white">
-      <div className="mx-auto my-[2rem] flex h-screen w-[80%] max-w-[1100px] flex-col items-end justify-center border-2">
+      <div className="mx-auto my-[2rem] flex min-h-[1000px] w-[80%] max-w-[1100px] flex-col items-end justify-center">
         {' '}
         <div className="w-[53%] text-start">
           <h1 className="font-zeyada text-2xl font-bold uppercase">
