@@ -1,6 +1,8 @@
+import SectionContainer from '@/components/SectionContainer';
+
 const HeroSection = () => {
   return (
-    <div className="mx-auto flex h-[600px] w-[80%] max-w-[1100px] flex-col items-start justify-start">
+    <SectionContainer className="flex h-[600px] w-[80%] max-w-[1100px] flex-col items-start justify-start">
       <div className="flex h-[800px] items-center border-green-600">
         <div>
           <h1 className="mt-8 font-zeyada text-5xl font-bold uppercase">
@@ -23,7 +25,7 @@ const HeroSection = () => {
 
         {/* <img src={OMMU} alt="" /> */}
       </div>
-    </div>
+    </SectionContainer>
   );
 };
 

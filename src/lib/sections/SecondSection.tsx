@@ -9,9 +9,7 @@ const SecondSection = () => {
         </h1>
       </div>
 
-      <div className="mx-auto flex w-[80%] max-w-[1100px]">
-        <Marque />
-      </div>
+      <Marque />
     </div>
   );
 };

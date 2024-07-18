@@ -49,7 +49,7 @@ const ThirdSection = () => {
         </div>
       </div>
 
-      <div className="my-[5rem] flex h-[400px] w-full items-center justify-center p-4">
+      <div className="my-[5rem] flex h-[300px] w-full items-center justify-center p-4">
         <div className="mx-auto flex w-[80%] max-w-[1100px] flex-row items-start justify-between border-yellow-600">
           <div className="flex h-full flex-col justify-center border-blue-500">
             <span className="block text-xl font-semibold text-[#847E7C]">
