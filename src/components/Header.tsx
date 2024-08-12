@@ -8,34 +8,43 @@ const Header = () => {
 
           <div className="flex gap-4">
             <a
-              className="font-semibold text-[#847E7C] hover:text-black"
-              href="#"
+              className="font-semibold text-[#847E7C] hover:text-black uppercase"
+              href="#sponsorship"
             >
-              SPONSORSHIPS
+              SPONSORSHIPS & PARTNERSHIPS
+            </a>
+     
+            <a
+              className="font-semibold text-[#847E7C] hover:text-black uppercase"
+              href="#offer"
+            >
+             Offer
+            </a>
+
+            <a
+              className="font-semibold text-[#847E7C] hover:text-black uppercase"
+              href="#whatwedo"
+            >
+             What we do
+            </a>
+
+            <a
+              className="font-semibold text-[#847E7C] hover:text-black uppercase"
+              href="#help"
+            >
+             Who we help
             </a>
             <a
-              className="font-semibold text-[#847E7C] hover:text-black"
-              href="#"
+              className="font-semibold text-[#847E7C] hover:text-black uppercase"
+              href="#teams"
             >
-              PARTNERSHIPS
-            </a>
-            <a
-              className="font-semibold text-[#847E7C] hover:text-black"
-              href="#"
-            >
-              WHAT WE DO
-            </a>
-            <a
-              className="font-semibold text-[#847E7C] hover:text-black"
-              href="#"
-            >
-              ABOUT
+              teams
             </a>
           </div>
         </div>
 
         <div className="flex gap-4">
-          <button className="h-12 w-32 rounded-md bg-white font-semibold text-black">
+          <button className="h-12 w-32 rounded-md bg-white font-semibold text-black uppercase">
             Login
           </button>
           <button className="h-12 w-32 rounded-md bg-[#FF7E3E] font-semibold">

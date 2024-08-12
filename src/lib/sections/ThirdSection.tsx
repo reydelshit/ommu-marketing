@@ -1,6 +1,6 @@
 const ThirdSection = () => {
   return (
-    <div className="clipPlatform z-10 mt-[-230px] flex w-full flex-col items-center bg-white pt-[280px]">
+    <div id="offer" className="clipPlatform z-10 mt-[-230px] flex w-full flex-col items-center bg-white pt-[280px]">
       <div className="mx-auto mt-[5rem] flex h-[700px] w-[80%] max-w-[1100px] flex-col items-start justify-start">
         {' '}
         <h1 className="text-start font-zeyada text-2xl font-bold uppercase">

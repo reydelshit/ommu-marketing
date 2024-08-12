@@ -5,6 +5,7 @@ import FourthSection from './lib/sections/FourthSection';
 import SecondSection from './lib/sections/SecondSection';
 
 import ThirdSection from './lib/sections/ThirdSection';
+import FifthFunction from './lib/sections/FifthSection';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <SecondSection />
         <ThirdSection />
         <FourthSection />
+        <FifthFunction />
         <FooterSection />
       </div>
     </div>
