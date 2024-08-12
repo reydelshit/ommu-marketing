@@ -113,7 +113,7 @@ const ThirdSection = () => {
         </div>
       </div>
 
-      <div className="w-[80%] max-w-[1100px] border-2"></div>
+      {/* <div className="w-[80%] max-w-[1100px] border-2"></div> */}
     </div>
   );
 };

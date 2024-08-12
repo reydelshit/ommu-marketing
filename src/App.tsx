@@ -15,7 +15,9 @@ function App() {
         <HeroSection />
         <SecondSection />
         <ThirdSection />
+
         <FourthSection />
+
         <FifthFunction />
         <FooterSection />
       </div>
