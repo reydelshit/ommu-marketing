@@ -6,9 +6,9 @@ const HeroSection = () => {
       <div className="flex h-[800px] items-center border-green-600">
         <div>
           <h1 className="mt-8 font-zeyada text-5xl font-bold uppercase">
-            Small actions,{' '}
-            <span className="block font-recoleta text-7xl font-extrabold tracking-wide">
-              BIG IMPACT.
+           Reydel Ocon,{' '}
+            <span className="block font-recoleta text-7xl font-extrabold tracking-wide uppercase">
+              halimaw mag mahal.
             </span>
           </h1>
 

@@ -120,4 +120,5 @@ primary
 body {
   position: relative;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
