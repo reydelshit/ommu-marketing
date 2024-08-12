@@ -17,13 +17,9 @@ module.exports = {
       },
     },
     fontFamily: {
-      mansalva: ['Mansalva', 'sans-serif'],
-      darumadrops: ['Darumadrop One', 'sans-serif'],
-      lilitaOne: ['Lilita One', 'sans-serif'],
-      amiri: ['Amiri', 'serif'],
-      coiny: ['Coiny', 'sans-serif'],
+
       zeyada: ['Zeyada', 'cursive'],
-      angkor: ['Angkor', 'sans-serif'],
+
       recoleta: ['Recoleta', 'sans-serif'],
     },
     extend: {
